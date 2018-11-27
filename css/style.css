@@ -14,3 +14,20 @@ input{
 h4{
   font-size:30px;
 }
+body{
+  font-family: 'Quicksand', sans-serif;
+  background-color:black;
+  color:white;
+}
+#end{
+  padding-top: 10px;
+}
+#computerChoice{
+    font-size:25px;
+}
+#userChoice{
+    font-size:25px;
+}
+#result{
+    font-size:25px;
+}
